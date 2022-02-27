@@ -1,3 +1,5 @@
 ># Software-Engineering-Course
-- [Lectures](https://github.com/GeekMind00/Software-Engineering-Course/tree/main/Lectures)
-   - [Lecture 1](https://github.com/GeekMind00/Software-Engineering-Course/blob/main/Lectures/lec1.md) 
+
+## [Lectures](https://geekmind00.github.io/Software-Engineering-Course-Factory/)
+ 
+- [x] Lecture 1
